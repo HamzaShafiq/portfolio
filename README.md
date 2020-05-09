@@ -78,4 +78,4 @@ Many people have contacted me asking me if they can use this code for their own 
 
 I value keeping this site open source, but as you all know, _**plagiarism is bad**_. I spent a non-negligible amount of effort developing, designing, and trying to perfect this iteration of my website, and I am proud of it! All I ask is to not claim this effort as your own.
 
-So, feel free to fork this repo. If you do, please just give me proper credit by linking back to my website, https://qasim-dev.com. Refer to this handy [quora post](https://www.quora.com/Is-it-bad-to-copy-other-peoples-code) if you're not sure what to do. Thanks!
+So, feel free to fork this repo. If you do, please just give me proper credit by linking back to my website, https://hamzashafiq.com. Refer to this handy [quora post](https://www.quora.com/Is-it-bad-to-copy-other-peoples-code) if you're not sure what to do. Thanks!
