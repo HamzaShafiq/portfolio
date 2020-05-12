@@ -1,6 +1,3 @@
-<div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/master/src/images/logo.png" width="100" />
-</div>
 <h1 align="center">
   https://www.hamzashafiq.online/ - v4
 </h1>
@@ -53,7 +50,7 @@
    npm run build
    ```
 
-1. Preview the site as it will appear once deployed
+1. Preview the site as it will appear once dgieployed
 
    ```sh
    npm run serve
