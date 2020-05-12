@@ -54,7 +54,6 @@ const NavListItem = styled.li`
   margin: 0 auto 20px;
   position: relative;
   font-size: ${fontSizes.lg};
-  counter-increment: item 1;
   ${media.thone`
     margin: 0 auto 10px;
     font-size: ${fontSizes.md};
@@ -62,7 +61,6 @@ const NavListItem = styled.li`
   ${media.tiny`font-size: ${fontSizes.smish};`};
   &:before {
     display: block;
-    content: '0' counter(item) '.';
     color: ${colors.green};
     font-size: ${fontSizes.sm};
     margin-bottom: 5px;
