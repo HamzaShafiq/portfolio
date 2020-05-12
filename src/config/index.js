@@ -3,8 +3,8 @@ module.exports = {
   siteDescription:
     'Full Stack Developer with 4 years of experience, highly effective at developing new programs and fixing problems with existing systems. Proficient in Vue, Ruby On Rails, Python, React, Angular and agile methodology.',
   siteKeywords:
-    'Hamza Shafiq, Hamza, hamzashafiq44, software engineer, front-end engineer, web developer, full stack developer, full stack, javascript, vue developer, vue',
-  siteUrl: 'https://qasim-dev.com',
+    'Hamza Shafiq, HamzaShafiq, hamzashafiq44@gmail.com, software engineer, front-end engineer, full stack developer, full stack, javascript, vue developer, web developer, vue developer',
+  siteUrl: 'https://www.hamzashafiq.online/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
