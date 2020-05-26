@@ -2,7 +2,7 @@
 date: '2017-11-01'
 title: 'One2three – Restaurant Management System​'
 github: ''
-external: 'https://sentimeter.io/'
+external: 'https://www.one2three.app/ferro/menu'
 tech:
   - Ruby On Rails
 company: 'Square63'

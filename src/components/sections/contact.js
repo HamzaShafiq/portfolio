@@ -80,7 +80,7 @@ const Contact = ({ data }) => {
 
       <div style={{ display: 'flex', justifyContent: 'space-between' }}>
         <StyledContactLink>Mobile:</StyledContactLink>{' '}
-        <span style={{ textAlign: 'left', width: '51%' }}> 923034075191 </span>
+        <span style={{ textAlign: 'left', width: '51%' }}> +923034075191 </span>
       </div>
     </StyledContainer>
   );
