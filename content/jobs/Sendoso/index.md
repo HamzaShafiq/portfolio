@@ -8,4 +8,5 @@ url: 'https://sendoso.com/'
 ---
 
 - Implement new features, manage request changes, resolve bugs and optimize application with exceptional code practices.
-- Train developers in vue.js and mentor VueJS Projects
+- Lead vue.js projects & Train developers in vue.js
+- Conduct interviews for hiring full stack developers
