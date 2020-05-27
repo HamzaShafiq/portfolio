@@ -104,7 +104,7 @@ const Footer = () => {
       </StyledSocial>
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
-          href="https://github.com/qasim86922"
+          href="https://www.linkedin.com/in/hamzashafiq44/"
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>Designed &amp; Built by Hamza Shafiq</div>
