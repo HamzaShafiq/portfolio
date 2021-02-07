@@ -1,6 +1,6 @@
 ---
 date: '2020-07-20'
-title: 'Senior Software Engineer'
+title: 'Tech Lead at Sendoso'
 company: 'Sendoso'
 location: 'Lahore, Pakistan'
 range: 'July 2019 - Present'
